@@ -1,0 +1,237 @@
+.tb1 {
+    width: 600px;
+    margin-left: 20px;
+    border-left: none;
+}
+
+.td1 {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding-left: 10px;
+    border-left: 1px solid gray;
+}
+
+.td2 {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding-left: 10px;
+}
+
+.hpad {
+    margin-left: 20px;
+}
+
+.trgreen {
+    background-color: green;
+}
+
+.trred {
+    background-color: red;
+}
+
+.thead {
+    background-color: black;
+    color: white;
+}
+
+.difftr {
+    background-color: aqua;
+}
+
+.tb2 {
+    width: 600px;
+    margin-left: 25%;
+    border: 1px solid black;
+}
+
+.thead1 {
+    background-color: blue;
+    color: azure;
+}
+
+.h4mg {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.btn1 {
+    background-color: orange;
+    border-color: orange;
+    width: 150px;
+    height: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.tblemt {
+    width: 400px;
+    margin-left: 30%;
+    background-color: aliceblue;
+}
+
+.trow {
+    padding-left: 20%;
+}
+
+.mytrow {
+    height: 150px;
+}
+
+.resetrow {
+    padding-left: 30%;
+}
+
+.trow1 {
+    padding-left: 6%;
+}
+
+.paraa1 {
+    font-size: 25px;
+}
+
+.lipad {
+    padding-bottom: 10px;
+}
+
+.btn2 {
+    width: 50px;
+    background-color: black;
+    color: white;
+}
+
+.myclass {
+    margin-left: 2px;
+    width: 200px;
+    margin-bottom: 5px;
+}
+
+.mycol {
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid white;
+}
+
+.row1 {
+    width: 700px;
+}
+
+.mybook {
+    margin-left: 140px;
+}
+
+.mydiv {
+    margin-left: 15%;
+}
+
+.mylib {
+    text-align: left;
+}
+
+.mybgcol {
+    background: rgb(30, 242, 143);
+}
+
+.mydiv1 {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.mybgcol1 {
+    background: rgb(16, 246, 226);
+    width: 20%;
+}
+
+.mydiv2 {
+    margin-left: 60px;
+}
+
+.btnn1 {
+    width: 35px;
+}
+
+.txt {
+    margin-left: 10px;
+}
+
+.mypic {
+    width: 700px;
+    height: 500px;
+}
+
+.mycont {
+    width: 70%;
+}
+
+.favpic {
+    width: 100px;
+    height: auto;
+}
+
+.myr {
+    margin-left: 15%;
+}
+
+.mmy {
+    margin-right: 64px;
+}
+
+.btncont {
+    margin-left: 25%;
+}
+
+.gamerow {
+    margin-left: 20px;
+    width: 500px;
+    height: 120px;
+}
+
+.mybox1 {
+    margin-top: 30%;
+    margin-left: 30%;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.mybtn {
+    background-color: rgb(34, 179, 190);
+}
+
+.game2 {
+    background-color: skyblue;
+    border-radius: 15px;
+}
+
+.animalimg {
+    width: 100%;
+    height: 100%;
+}
+
+.game2gray {
+    background-color: gray;
+}
+
+.myhe {
+    margin-left: 350px;
+}
+
+.olmr {
+    margin-left: 360px;
+}
+
+.btnmr {
+    width: 200px;
+    margin-left: 65%;
+}
+
+.mystyle {
+    cursor: pointer;
+}
+
+.myviewbtn {
+    margin-left: 65%;
+}
+
+.teamrow {
+    margin-left: 20%;
+}
